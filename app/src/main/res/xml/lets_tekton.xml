@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<trigger command="RECORD_A_VIDEO" />
+<!--<trigger command="RECORD_A_VIDEO" >-->
+    <!--<input prompt="Tekton Labs" />-->
+<!--</trigger>-->
+
+<!--<trigger keyword="@string/glass_voice_trigger">-->
+    <!--<input prompt="@string/glass_voice_prompt" />-->
+<!--</trigger>-->

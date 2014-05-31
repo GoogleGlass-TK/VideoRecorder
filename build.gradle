@@ -1,0 +1,18 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.7.+'
+        module('com.android.support:support-v4-19.0.1')
+        module(':libraries:facebook')
+    }
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
